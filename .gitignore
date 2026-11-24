@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NaGamEE_keeper
+.DS_Store
+# 모델 가중치 (용량 제한으로 저장소에 넣지 않음)
+*.safetensors
+*.bin
+*.gguf
+# 운영진 제공 자료 (배포 권한 미확인)
+data/rulebook_*.jsonl
+evaluation/questions/public.jsonl
+evaluation/questions/final.jsonl
+NewDataSet_V3/
+# 실행 중 생기는 검색 색인
+qdrant_*/

@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+compressed-tensors
+bitsandbytes
+sentence-transformers
+qdrant-client
+langgraph
+typing_extensions
+streamlit
+kiwipiepy
+rank-bm25
+openai
+tqdm
