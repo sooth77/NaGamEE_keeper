@@ -189,10 +189,16 @@ NaGamEE_keeper/
 세 가지 질문으로 시연했어요.
 
 1. **예/아니오:** 바로 판정하는 문제
+
+https://github.com/user-attachments/assets/5519573d-4505-4591-8040-a709c738bac0
+   
 2. **계산:** 날짜를 되묻고 규칙대로 계산하는 문제
+   
+https://github.com/user-attachments/assets/533c5f78-186c-43b4-89e6-64b6d1fbb066
+
 3. **긴 질문:** 잡담 속에서 핵심을 찾는 문제
 
-<!-- 시연 영상은 GitHub 웹 편집 화면에서 mp4 파일을 이 아래로 끌어다 놓으면 링크가 생성돼요. -->
+https://github.com/user-attachments/assets/533c5f78-186c-43b4-89e6-64b6d1fbb066
 
 ## 6. 실행 방법
 
