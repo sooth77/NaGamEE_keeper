@@ -198,7 +198,7 @@ https://github.com/user-attachments/assets/533c5f78-186c-43b4-89e6-64b6d1fbb066
 
 3. **긴 질문:** 잡담 속에서 핵심을 찾는 문제
 
-https://github.com/user-attachments/assets/533c5f78-186c-43b4-89e6-64b6d1fbb066
+https://github.com/user-attachments/assets/c9873c50-0160-440b-b6f8-a211bd296798
 
 ## 6. 실행 방법
 
